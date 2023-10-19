@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="peace_recommendations">
+        <item>Pratiquez la pleine conscience quotidiennement pour rester présent dans l’instant présent.</item>
+        <item>Trouvez du temps pour la méditation et les exercices de respiration profonde.</item>
+        <item>Passez du temps de qualité dans la nature, en vous connectant avec le plein air.</item>
+        <item>Donnez la priorité aux soins personnels et à l’auto-compassion.</item>
+        <item>Tenez un journal de gratitude pour vous concentrer sur les aspects positifs de la vie.</item>
+        <item>Entourez-vous de personnes solidaires et positives.</item>
+        <item>Apprenez à abandonner les choses indépendantes de votre volonté.</item>
+        <item>Pratiquez une activité physique régulière pour réduire le stress.</item>
+        <item>Explorez de nouveaux passe-temps et intérêts qui apportent de la joie.</item>
+        <item>Fixez des limites claires pour protéger votre bien-être mental et émotionnel.</item>
+        <item>Débranchez-vous des appareils numériques et adoptez les détox numériques.</item>
+        <item>Pratiquez le pardon, tant envers vous-même que envers les autres.</item>
+        <item>Déconnectez-vous du stress lié au travail après les heures normales.</item>
+        <item>Embrassez le pouvoir des affirmations positives.</item>
+        <item><![CDATA[Demandez l’aide d’un professionnel en cas de besoin ; la thérapie est une ressource précieuse.]]></item>
+        <item>Approfondissez vos relations grâce à une communication ouverte.</item>
+        <item>Lisez des livres sur le développement personnel et le bien-être.</item>
+        <item>Désencombrez votre espace physique pour désencombrer votre esprit.</item>
+        <item>Pratiquez des actes aléatoires de gentillesse envers les autres.</item>
+        <item>Trouvez la beauté dans les moments simples du quotidien.</item>
+        <item>Écoutez de la musique apaisante et des sons apaisants.</item>
+        <item>Participez à une expression créative, comme l’art ou l’écriture.</item>
+        <item>Chérissez votre temps seul pour l’introspection et la relaxation.</item>
+        <item>Limitez votre exposition aux nouvelles négatives et aux médias sociaux.</item>
+        <item>Exprimez votre gratitude à ceux qui vous sont chers.</item>
+        <item>Cultiver un sens de dessein et de signification dans la vie.</item>
+        <item>Libérer le stress par l\'exercice régulier et le mouvement.</item>
+        <item>Créer un environnement domestique paisible et serein.</item>
+        <item>Apprendre le pouvoir de dire \'non\' quand c\'est nécessaire.</item>
+        <item>Déguster vos repas et friandises préférés avec attention.</item>
+    </string-array>
+</resources>

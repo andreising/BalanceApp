@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="philosopher_quotes">
+        <item>The only true wisdom is in knowing you know nothing. - Socrates</item>
+        <item>In three words I can sum up everything I\'ve learned about life: it goes on. - Robert Frost</item>
+        <item>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. - Ralph Waldo Emerson</item>
+        <item>Life is really simple, but we insist on making it complicated. - Confucius</item>
+        <item>The unexamined life is not worth living. - Socrates</item>
+        <item>It is the mark of an educated mind to be able to entertain a thought without accepting it. - Aristotle</item>
+        <item>The only way to deal with life is to enjoy and embrace it. - Alan Watts</item>
+        <item>The greatest glory in living lies not in never falling, but in rising every time we fall. - Nelson Mandela</item>
+        <item>The unexamined life is not worth living. - Socrates</item>
+        <item>To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. - Ralph Waldo Emerson</item>
+        <item>Life is what happens when you\'re busy making other plans. - John Lennon</item>
+        <item>You have power over your mind — not outside events. Realize this, and you will find strength. - Marcus Aurelius</item>
+        <item>Change your thoughts and you change your world. - Norman Vincent Peale</item>
+        <item>The only real wisdom is recognizing how little we know. - Socrates</item>
+        <item>Our life is what our thoughts make it. - Marcus Aurelius</item>
+        <item>The good life is one inspired by love and guided by knowledge. - Bertrand Russell</item>
+        <item>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. - Socrates</item>
+        <item>You are never too old to set another goal or to dream a new dream. - C.S. Lewis</item>
+        <item>He who is not a good servant will not be a good master. - Plato</item>
+        <item>The greatest wealth is to live content with little. - Plato</item>
+        <item>Man is the measure of all things. - Protagoras</item>
+        <item>To find yourself, think for yourself. - Socrates</item>
+        <item>Wealth consists not in having great possessions, but in having few wants. - Epictetus</item>
+        <item>There is no path to happiness: happiness is the path. - Buddha</item>
+        <item>The only source of knowledge is experience. - Albert Einstein</item>
+        <item>Life is a shipwreck, but we must not forget to sing in the lifeboats. - Voltaire</item>
+        <item>The key is to keep company only with people who uplift you, whose presence calls forth your best. - Epictetus</item>
+        <item>I think, therefore I am. - René Descartes</item>
+        <item>You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life. - Albert Camus</item>
+        <item>It is the power of the mind to be unconquerable. - Seneca</item>
+    </string-array>
+</resources>

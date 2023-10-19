@@ -1,0 +1,12 @@
+package com.andreisingeleytsev.balanceapp.domain.get_list.usecases
+
+import com.andreisingeleytsev.balanceapp.domain.get_list.GetListRepository
+import javax.inject.Inject
+
+class GetTipsListUseCase @Inject constructor(
+    private val repository: GetListRepository
+) {
+    suspend operator fun invoke(): List<String>{
+        return repository.getTipsList()
+    }
+}

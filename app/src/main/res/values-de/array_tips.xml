@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="peace_recommendations">
+        <item>Practice mindfulness daily to stay present in the moment.</item>
+        <item>Find time for meditation and deep breathing exercises.</item>
+        <item>Spend quality time in nature, connecting with the outdoors.</item>
+        <item>Prioritize self-care and self-compassion.</item>
+        <item>Keep a gratitude journal to focus on the positive aspects of life.</item>
+        <item>Surround yourself with supportive and positive people.</item>
+        <item>Learn to let go of things beyond your control.</item>
+        <item>Engage in regular physical activity to reduce stress.</item>
+        <item>Explore new hobbies and interests that bring joy.</item>
+        <item>Set clear boundaries to protect your mental and emotional well-being.</item>
+        <item>Unplug from digital devices and embrace digital detoxes.</item>
+        <item>Practice forgiveness, both for yourself and others.</item>
+        <item>Disconnect from work-related stress after hours.</item>
+        <item>Embrace the power of positive affirmations.</item>
+        <item>Seek professional help when needed; therapy is a valuable resource.</item>
+        <item>Deepen your relationships through open communication.</item>
+        <item>Read books on personal development and well-being.</item>
+        <item>Declutter your physical space to declutter your mind.</item>
+        <item>Practice random acts of kindness to others.</item>
+        <item>Find beauty in simple everyday moments.</item>
+        <item>Listen to calming music and soothing sounds.</item>
+        <item>Engage in creative expression, such as art or writing.</item>
+        <item>Cherish your alone time for self-reflection and relaxation.</item>
+        <item>Limit exposure to negative news and social media.</item>
+        <item>Express gratitude to those you care about.</item>
+        <item>Cultivate a sense of purpose and meaning in life.</item>
+        <item>Release stress through regular exercise and movement.</item>
+        <item>Create a peaceful and serene home environment.</item>
+        <item>Learn the power of saying \'no\' when necessary.</item>
+        <item>Savor your favorite meals and treats mindfully.</item>
+    </string-array>
+</resources>

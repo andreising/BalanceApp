@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BalanceApp</string>
+    <string name="onboard_title">Willkommen in der Welt des inneren Friedens und der Harmonie. Die Balance App ist Ihr Führer in das Reich der Ruhe und des emotionalen Gleichgewichts. Lassen Sie uns gemeinsam diese wichtige Reise antreten.</string>
+    <string name="contin">Weitermachen</string>
+    <string name="start_screen">Startbildschirm</string>
+    <string name="diary">Tagebuch über den Geisteszustand</string>
+    <string name="quotes">Philosophen</string>
+    <string name="tips">Tipps</string>
+    <string name="today_is">Heute ist:</string>
+    <string name="next">Nächste</string>
+    <string name="back">Zurück zum Menü</string>
+    <string name="peace">Frieden</string>
+    <string name="balance">Gleichgewicht</string>
+    <string name="clarity">Klarheit</string>
+    <string name="mercy">Barmherzigkeit</string>
+    <string name="diary_list">Tagebuchliste</string>
+    <string name="diary_title">Dies ist ein Tagebuch voller Emotionen und Gefühle. Hier können Sie Ihre Gedanken aufschreiben, die Sie verfolgen, damit sie nicht von hier verschwinden</string>
+    <string name="cancel">Stornieren</string>
+    <string name="apply">Anwenden</string>
+    <string name="diary_number">Tagebuch #</string>
+</resources>

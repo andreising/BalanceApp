@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="philosopher_quotes">
+        <item>La seule vraie sagesse est de savoir que l’on ne sait rien. - Socrate</item>
+        <item>En trois mots, je peux résumer tout ce que j\'ai appris sur la vie : elle continue. -Robert Frost</item>
+        <item>Être soi-même dans un monde qui essaie constamment de faire de vous autre chose est la plus grande réussite. -Ralph Waldo Emerson</item>
+        <item>La vie est vraiment simple, mais nous insistons pour la compliquer. - Confucius</item>
+        <item>Une vie sans examen ne vaut pas la peine d’être vécue. - Socrate</item>
+        <item>C\'est la marque d\'un esprit instruit que d\'être capable d\'entretenir une pensée sans l\'accepter. -Aristote</item>
+        <item>La seule façon d’affronter la vie est d’en profiter et de l’accepter. -Alan Watts</item>
+        <item>La plus grande gloire dans la vie ne réside pas dans le fait de ne jamais tomber, mais dans le fait de se relever à chaque chute. - Nelson Mandela</item>
+        <item>Une vie sans examen ne vaut pas la peine d’être vécue. - Socrate</item>
+        <item>Être soi-même dans un monde qui essaie constamment de faire de vous autre chose est la plus grande réussite. -Ralph Waldo Emerson</item>
+        <item>La vie, c\'est ce qui arrive lorsque vous êtes occupé à faire d\'autres projets. - John Lennon</item>
+        <item>Vous avez du pouvoir sur votre esprit, pas sur les événements extérieurs. Comprenez-le et vous trouverez de la force. -Marc Aurèle</item>
+        <item>Changez vos pensées et vous changez votre monde. - Norman Vincent Peale</item>
+        <item>La seule vraie sagesse est de reconnaître à quel point nous en savons peu. - Socrate</item>
+        <item>Notre vie est ce que nos pensées en font. -Marc Aurèle</item>
+        <item>La bonne vie est celle inspirée par l’amour et guidée par la connaissance. - Bertrand Russell</item>
+        <item>Le secret du bonheur, voyez-vous, ne réside pas dans la recherche de plus, mais dans le développement de la capacité de profiter de moins. - Socrate</item>
+        <item>Vous n’êtes jamais trop vieux pour vous fixer un autre objectif ou rêver d’un nouveau rêve. - CS Lewis</item>
+        <item>Celui qui n’est pas un bon serviteur ne sera pas un bon maître. - Platon</item>
+        <item>La plus grande richesse est de vivre content de peu. - Platon</item>
+        <item>L\'homme est la mesure de toutes choses. -Protagoras</item>
+        <item>Pour vous retrouver, pensez par vous-même. - Socrate</item>
+        <item>La richesse ne consiste pas à avoir de grandes possessions, mais à avoir peu de besoins. - Epictète</item>
+        <item>Il n’y a pas de chemin vers le bonheur : le bonheur est le chemin. - Bouddha</item>
+        <item>La seule source de connaissances est l\'expérience. - Albert Einstein</item>
+        <item>La vie est un naufrage, mais il ne faut pas oublier de chanter dans les canots de sauvetage. -Voltaire</item>
+        <item>La clé est de ne rester en compagnie que de personnes qui vous élèvent, dont la présence vous fait ressortir le meilleur de vous-même. - Epictète</item>
+        <item>Je pense donc je suis. - René Descartes</item>
+        <item>Vous ne serez jamais heureux si vous continuez à chercher en quoi consiste le bonheur. Vous ne vivrez jamais si vous cherchez le sens de la vie. - Albert Camus</item>
+        <item>C\'est le pouvoir de l\'esprit d\'être invincible. - Sénèque</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="philosopher_quotes">
+        <item>Die einzig wahre Weisheit liegt darin, zu wissen, dass man nichts weiß. - Sokrates</item>
+        <item>In drei Worten kann ich alles zusammenfassen, was ich über das Leben gelernt habe: Es geht weiter. - Robert Frost</item>
+        <item>In einer Welt, die ständig versucht, aus einem etwas anderes zu machen, man selbst zu sein, ist die größte Errungenschaft. - Ralph Waldo Emerson</item>
+        <item>Das Leben ist wirklich einfach, aber wir bestehen darauf, es kompliziert zu machen. - Konfuzius</item>
+        <item>Die unerforschte Leben ist nicht lebenswert. - Sokrates</item>
+        <item>Es ist das Zeichen eines gebildeten Geistes, in der Lage zu sein, einen Gedanken zu hegen, ohne ihn zu akzeptieren. - Aristoteles</item>
+        <item>Der einzige Weg, mit dem Leben umzugehen, besteht darin, es zu genießen und anzunehmen. - Alan Watts</item>
+        <item>Der größte Ruhm im Leben liegt nicht darin, niemals zu fallen, sondern darin, jedes Mal wieder aufzustehen, wenn wir fallen. - Nelson Mandela</item>
+        <item>Die unerforschte Leben ist nicht lebenswert. - Sokrates</item>
+        <item>In einer Welt, die ständig versucht, aus einem etwas anderes zu machen, man selbst zu sein, ist die größte Errungenschaft. - Ralph Waldo Emerson</item>
+        <item>Das Leben ist das, was passiert, wenn man damit beschäftigt ist, andere Pläne zu schmieden. - John Lennon</item>
+        <item>Sie haben Macht über Ihren Geist – nicht über äußere Ereignisse. Erkenne dies und du wirst Kraft finden. - Marcus Aurelius</item>
+        <item>Ändere deine Gedanken und du veränderst deine Welt. - Norman Vincent Peale</item>
+        <item>Die einzig wahre Weisheit besteht darin, zu erkennen, wie wenig wir wissen. - Sokrates</item>
+        <item>Unser Leben ist das, was unsere Gedanken daraus machen. - Marcus Aurelius</item>
+        <item>Das gute Leben ist eines, das von Liebe inspiriert und von Wissen geleitet wird. - Bertrand Russell</item>
+        <item>Das Geheimnis des Glücks liegt nämlich nicht darin, nach mehr zu streben, sondern darin, die Fähigkeit zu entwickeln, weniger zu genießen. - Sokrates</item>
+        <item>Man ist nie zu alt, um sich ein anderes Ziel zu setzen oder einen neuen Traum zu träumen. - C.S. Lewis</item>
+        <item>Wer kein guter Diener ist, wird kein guter Herr sein. - Platon</item>
+        <item>Der größte Reichtum besteht darin, mit wenig zufrieden zu leben. - Platon</item>
+        <item>Der Mensch ist das Maß aller Dinge. - Protagoras</item>
+        <item>Um sich selbst zu finden, denken Sie selbst. - Sokrates</item>
+        <item>Reichtum besteht nicht darin, große Besitztümer zu haben, sondern darin, wenige Bedürfnisse zu haben. - Epiktet</item>
+        <item>Es gibt keinen Weg zum Glück: Glück ist der Weg. - Buddha</item>
+        <item>Die einzige Wissensquelle ist Erfahrung. - Albert Einstein</item>
+        <item>Das Leben ist ein Schiffbruch, aber wir dürfen nicht vergessen, in den Rettungsbooten zu singen. - Voltaire</item>
+        <item>Der Schlüssel liegt darin, nur mit Menschen in Kontakt zu bleiben, die Sie ermutigen und deren Anwesenheit Ihr Bestes hervorruft. - Epiktet</item>
+        <item>Ich denke, also bin ich. - René Descartes</item>
+        <item>Sie werden nie glücklich sein, wenn Sie weiterhin nach dem suchen, was Glück ausmacht. Du wirst nie leben, wenn du nach dem Sinn des Lebens suchst. - Albert Camus</item>
+        <item>Es ist die Kraft des Geistes, unbesiegbar zu sein. - Seneca</item>
+    </string-array>
+</resources>
